@@ -1,7 +1,7 @@
 {
-  "name": "npmpublish",
-  "version": "0.1.0",
-  "private": true,
+  "name": "learntonpmpublish",
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Learn to publish npm",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Ranjith",
+  "license": "ISC"
 }
